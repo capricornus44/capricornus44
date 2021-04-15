@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### My stack and tools:
 
+<p>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" height="30" width="30" align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" height="30" width="30" align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg" height="30" width="30" align="left">
@@ -42,10 +43,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg" height="30" width="30" align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" height="30" width="30" align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" height="30" width="30" align="left">
+</p>
   
-  <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icon=true" alt="capricornus44">
+  <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icon=true" alt="capricornus44">
 
 - 📫 How to reach me: <a href="mailto:antonzavalniuk@gmail.com" target="_blank">antonzavalniuk@gmail.com</a>
 
