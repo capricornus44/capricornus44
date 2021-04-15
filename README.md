@@ -30,6 +30,7 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 ### My statistics:
+
 <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capricornus44&layout=compact" alt="top languages" />
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_colot=daf7dc&bg_color=151515" alt="capricornus44"> -->
