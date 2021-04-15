@@ -31,8 +31,8 @@
 
 ###
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capricornus44&layout=compact&hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="top languages" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=capricornus44&height=150px&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capricornus44&height=150px&layout=compact&hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="top languages" /></p>
 
 
 <p align="left"> 
