@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 ### Contact with me:
 
 <a href="mailto:antonzavalniuk@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="24" width="24">
+  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" height="24" width="24">
 </a>
 <a href="https://www.linkedin.com/in/anton-zavalniuk-969328202" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="24" width="24">
+  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" height="24" width="24">
 </a>
 <a href="https://www.facebook.com/anton.zavalniuk" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="24" width="24">
+  <imgsrc="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" height="24" width="24">
 </a>
 
 
