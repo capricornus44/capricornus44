@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" height="30" width="30">
 </p>
   
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icon=true" alt="capricornus44"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_colot=daf7dc&bg_color=151515" alt="capricornus44">
+<img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true" alt="capricornus44"> 
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_colot=daf7dc&bg_color=151515" alt="capricornus44"> -->
 
 ### Contact with me:
 
