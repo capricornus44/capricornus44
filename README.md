@@ -12,10 +12,14 @@
   <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" height="30" width=30">
 </a>
 
+</br>
+
 <p><img height="150px" src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="stats" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capricornus44&layout=compact&hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="top languages" /></p>
 
-### My stack and tools:
+</br>
+
+<h3 align="left">My stack and tools: 👋</h3>
 
 <p><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
