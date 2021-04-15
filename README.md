@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <h1 aligh="center">Hi there, I'm Anton 👋</h1>
 
-- 📫 How to reach me: <a href="mailto:antonzavalniuk@gmail.com" target="_blank">antonzavalniuk@gmail.com</a>
-
 My stack and tools:
 
 <p>
@@ -36,4 +34,7 @@ My stack and tools:
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icon=true" alt="capricornus44">
+
+- 📫 How to reach me: <a href="mailto:antonzavalniuk@gmail.com" target="_blank">antonzavalniuk@gmail.com</a>
+
 
