@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 aligh="center">Hi there, I am Anton Zavalniuk 👋</h1>
+
+I’m currently learning:
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" height="30" width="30">
