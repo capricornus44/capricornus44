@@ -32,7 +32,9 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/overview/?username=capricornus44&layout=compact" alt="overview" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capricornus44&layout=compact" alt="top languages" />
+
 
 
 
