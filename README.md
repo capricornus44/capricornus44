@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 
 <h1 aligh="center">Hi there, I'm Anton 👋</h1>
 
+### Contact with me:
+
+<a href="mailto:antonzavalniuk@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" height="24" width="24">
+</a>
+<a href="https://www.linkedin.com/in/anton-zavalniuk-969328202" target="_blank">
+  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" height="24" width="24">
+</a>
+<a href="https://www.facebook.com/anton.zavalniuk" target="_blank">
+  <imgsrc="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" height="24" width="24">
+</a>
+
 ### My stack and tools:
 
 <p>
@@ -36,16 +48,10 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true" alt="capricornus44"> 
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_colot=daf7dc&bg_color=151515" alt="capricornus44"> -->
 
-### Contact with me:
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" alt="Visitor Count" />
+</p>
 
-<a href="mailto:antonzavalniuk@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" height="24" width="24">
-</a>
-<a href="https://www.linkedin.com/in/anton-zavalniuk-969328202" target="_blank">
-  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" height="24" width="24">
-</a>
-<a href="https://www.facebook.com/anton.zavalniuk" target="_blank">
-  <imgsrc="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" height="24" width="24">
-</a>
+
 
 
