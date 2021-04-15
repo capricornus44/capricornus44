@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" height="30" width="30">
 </p>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icon=true" alt="capricornus44">
+  <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icon=true" alt="capricornus44"> 
 
 - 📫 How to reach me: <a href="mailto:antonzavalniuk@gmail.com" target="_blank">antonzavalniuk@gmail.com</a>
 
