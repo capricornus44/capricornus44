@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 
 <p>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" height="30" width="30">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" height="30" width="30" >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg" height="30" width="30">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" height="30" width="30">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" height="30" width="30">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30" width="30">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="30" width="30">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg" height="30" width="30">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="30" width="30">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" >
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" height="30" width="30">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="30" width="30">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg" height="30" width="30">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" height="30" width="30">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="30" width="30">
