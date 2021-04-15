@@ -31,8 +31,8 @@
 <img align="left" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 
-![Github Stats] (https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true)
-![] (https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true" alt="capricornus44 stats" />
+<img src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg" alt="used languages" />
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_colot=daf7dc&bg_color=151515" alt="capricornus44"> -->
 
 <p align="left"> 
