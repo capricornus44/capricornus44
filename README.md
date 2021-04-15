@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" height="30" width="30">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg" height="30" width="30">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" height="30" width="30">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="30" width="30">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" height="30" width="30">
 </p>
   
