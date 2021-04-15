@@ -32,6 +32,9 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true" alt="capricornus44 stats" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capricornus44&layout=compact)](https://github.com/capricornus44/github-readme-stats)
+
+
 <img src="https://raw.githubusercontent.com/capricornus44/github-stats-transparent/output/generated/overview.svg" alt="overview" />
 <img src="https://raw.githubusercontent.com/capricornus44/github-stats-transparent/output/generated/languages.svg" alt="used languages" />
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_colot=daf7dc&bg_color=151515" alt="capricornus44"> -->
