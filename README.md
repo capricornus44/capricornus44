@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
   <img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icon=true" alt="capricornus44"> 
 
-### Connect with me:
+### Contact with me:
 
 <a href="mailto:antonzavalniuk@gmail.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30">
