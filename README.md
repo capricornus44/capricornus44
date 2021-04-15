@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 I’m currently learning:
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" height="30" width="30" fill="tomato">
+
+<img src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icon=true" alt="capricornus44">
