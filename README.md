@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 My stack and tools:
 
-<div>
+<div margin-bottom="10px">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" height="30" width="30" fill="tomato">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" height="30" width="30" fill="tomato">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg" height="30" width="30" fill="tomato">
