@@ -12,7 +12,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" height="30" width=30">
 </a>
 
-<h3 align="left">My stattistics:</h3>
+<h3 align="left">My stats:</h3>
 
 <p><img height="150px" src="https://github-readme-stats.vercel.app/api?username=capricornus44&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="stats" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capricornus44&layout=compact&hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="top languages" /></p>
