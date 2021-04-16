@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Anton 👋</h1>
 
-### Contact with me:
+### Contact me:
 
 <a href="mailto:antonzavalniuk@gmail.com" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="30">
