@@ -3,7 +3,7 @@
 ### Contact me:
 
 <a href="mailto:antonzavalniuk@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="30">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" height="16" width="16">
   antonzavalniuk@gmail.com
 </a>
 <a href="https://www.linkedin.com/in/anton-zavalniuk-969328202" target="_blank">
