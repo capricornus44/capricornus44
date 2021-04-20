@@ -1,12 +1,10 @@
 <h1 align="left">Hi there, I'm Anton 👋</h1>
 
 ### Contact me:
-[![Gmail Badge](https://img.shields.io/badge/-antonzavalniuk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonzavalniuk@gmail.com)](mailto:kanna6501@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-anton-zavalniuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-zavalniuk-969328202/)](https://www.linkedin.com/in/anton-zavalniuk-969328202/)
+[![Gmail Badge](https://img.shields.io/badge/-antonzavalniuk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonzavalniuk@gmail.com)](mailto:antonzavalniuk@gmail.com)
 
-<a href="mailto:antonzavalniuk@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="30">
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-anton-zavalniuk-969328202-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-zavalniuk-969328202)](https://www.linkedin.com/in/anton-zavalniuk-969328202)
+
 <a href="https://www.linkedin.com/in/anton-zavalniuk-969328202" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="30" />
 </a>
