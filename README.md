@@ -2,7 +2,7 @@
 
 ### Contact me:
 
-<p align="center">
+<p align="left">
   <a href="mailto:antonzavalniuk@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/anton-zavalniuk-969328202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a target="_blank"href="https://www.facebook.com/in/anton.zavalniuk/"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
