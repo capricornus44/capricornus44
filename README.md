@@ -3,6 +3,7 @@
 ### Contact me:
 [![Gmail Badge](https://img.shields.io/badge/-antonzavalniuk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonzavalniuk@gmail.com)](mailto:antonzavalniuk@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-anton.zavalniuk-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/anton.zavalniuk/)](https://www.facebook.com/in/anton.zavalniuk/)
+[![Linkedin Badge](https://img.shields.io/badge/-anton-zavalniuk-969328202-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-zavalniuk-969328202/)](https://www.linkedin.com/in/anton-zavalniuk-969328202/)
 
 <h3 align="left">My stats:</h3>
 
