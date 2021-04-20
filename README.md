@@ -2,6 +2,7 @@
 
 ### Contact me:
 [![Gmail Badge](https://img.shields.io/badge/-antonzavalniuk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonzavalniuk@gmail.com)](mailto:antonzavalniuk@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-anton.zavalniuk-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/anton.zavalniuk/)](https://www.facebook.com/in/anton.zavalniuk/)
 
 <h3 align="left">My stats:</h3>
 
