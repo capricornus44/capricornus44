@@ -1,6 +1,7 @@
 <h1 align="left">Hi there, I'm Anton 👋</h1>
 
 ### Contact me:
+[![Gmail Badge](https://img.shields.io/badge/-antonzavalniuk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonzavalniuk@gmail.com)](mailto:kanna6501@gmail.com)
 
 <a href="mailto:antonzavalniuk@gmail.com" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="30">
