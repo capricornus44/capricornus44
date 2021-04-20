@@ -6,7 +6,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="30">
 </a>
 <a href="https://www.linkedin.com/in/anton-zavalniuk-969328202" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />
+  <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="30" />
 </a>
 <a href="https://www.facebook.com/anton.zavalniuk" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" height="30" width=30">
